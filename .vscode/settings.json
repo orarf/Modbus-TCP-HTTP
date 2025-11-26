@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cmodbus.h": "c",
+        "curl.h": "c"
+    }
+}

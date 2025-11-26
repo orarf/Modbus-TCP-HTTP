@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Modbus TCP/ModbusLib_build/cmake_install.cmake",
+		"D:/Modbus TCP/ModbusLib_build/src/cmake_install.cmake",
+		"D:/Modbus TCP/ModbusLib_build/examples/client/cmake_install.cmake",
+		"D:/Modbus TCP/ModbusLib_build/examples/server/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

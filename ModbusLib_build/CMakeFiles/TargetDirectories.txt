@@ -1,0 +1,13 @@
+D:/Modbus TCP/ModbusLib_build/CMakeFiles/edit_cache.dir
+D:/Modbus TCP/ModbusLib_build/CMakeFiles/rebuild_cache.dir
+D:/Modbus TCP/ModbusLib_build/src/CMakeFiles/modbus.dir
+D:/Modbus TCP/ModbusLib_build/src/CMakeFiles/edit_cache.dir
+D:/Modbus TCP/ModbusLib_build/src/CMakeFiles/rebuild_cache.dir
+D:/Modbus TCP/ModbusLib_build/examples/client/CMakeFiles/democlient.dir
+D:/Modbus TCP/ModbusLib_build/examples/client/CMakeFiles/mbclient.dir
+D:/Modbus TCP/ModbusLib_build/examples/client/CMakeFiles/edit_cache.dir
+D:/Modbus TCP/ModbusLib_build/examples/client/CMakeFiles/rebuild_cache.dir
+D:/Modbus TCP/ModbusLib_build/examples/server/CMakeFiles/demoserver.dir
+D:/Modbus TCP/ModbusLib_build/examples/server/CMakeFiles/mbserver.dir
+D:/Modbus TCP/ModbusLib_build/examples/server/CMakeFiles/edit_cache.dir
+D:/Modbus TCP/ModbusLib_build/examples/server/CMakeFiles/rebuild_cache.dir
