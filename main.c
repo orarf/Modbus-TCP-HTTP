@@ -51,7 +51,7 @@ int main() {
     cModbusClient client = cCliCreate(unit, TCP, &settings, 1);
 
     int addresses[] = {2999, 3001, 3003, 3005, 3007, 3009};
-    const char* names[] = {"Current A", "Current B", "Current C", "Current N", "Current G", "Current AVG"};
+    const char* names[] = {"Current A", "Current B", "Current C", "Current N", "Current G", "Current AVG."};
     int count = sizeof(addresses) / sizeof(addresses[0]);
     uint16_t regs[2];
     char ch = 0;
